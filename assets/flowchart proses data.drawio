@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15">
+  <diagram name="Page-1" id="90v8u622bpc4vm5EBteR">
+    <mxGraphModel dx="1226" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K-riKXAixYRkltTX_bnq-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="40" width="600" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="K-riKXAixYRkltTX_bnq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-riKXAixYRkltTX_bnq-2" target="K-riKXAixYRkltTX_bnq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-riKXAixYRkltTX_bnq-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="445" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-riKXAixYRkltTX_bnq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-riKXAixYRkltTX_bnq-3" target="K-riKXAixYRkltTX_bnq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-riKXAixYRkltTX_bnq-3" value="&lt;div&gt;Kimia Farma&lt;/div&gt;&lt;div&gt;Raw Dataset&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-riKXAixYRkltTX_bnq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-riKXAixYRkltTX_bnq-4" target="K-riKXAixYRkltTX_bnq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-riKXAixYRkltTX_bnq-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;Data Processing in BigQuery&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;• LEFT JOIN 3 Tables&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;• Calculate Persentase Gross Laba&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;• Calculate Nett Sales&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;• Calculate Nett Profit&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;• Generate kf_analysis&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K-riKXAixYRkltTX_bnq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-riKXAixYRkltTX_bnq-5" target="K-riKXAixYRkltTX_bnq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-riKXAixYRkltTX_bnq-5" value="&lt;div&gt;Final Analysis Table&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;kf_analysis&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-riKXAixYRkltTX_bnq-6" value="Finish" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="445" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
