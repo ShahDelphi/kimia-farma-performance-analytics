@@ -72,7 +72,7 @@ The final table contains:
 SQL scripts are available in:
 
 ```
-sql/
+sql/62926_kimia_farma_analysis.sql
 ```
 
 ---
